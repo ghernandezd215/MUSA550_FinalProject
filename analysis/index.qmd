@@ -1,11 +1,11 @@
 # Analysis
 
-This section includes examples of technical analysis done using Jupyter notebooks.
-Each sub-section highlights different types of analyses and visualizations.
-In particular, it highlights that we can easily publish interactive visualizations
-produced with packages such as hvPlot, altair, or Folium, without losing
-any of the interactive features. 
+This section includes the code that I used to create the final product of this project: Nehemiah HDFC's properties merged with MAPPLUTO as a shapefile that can be visualized. For the first time in its 30+ year history, Nehemiah can visualize the scale of their work in East Brooklyn neighborhoods and tell its story through a different medium. 
 
-On this page, you might want to share more introductory or background information about 
-the analyses to help guide the reader. 
+To see a visualization of the data, please scroll all the way to the bottom and engage with the interactive map.
+
+Best,
+
+
+Gabriel
 

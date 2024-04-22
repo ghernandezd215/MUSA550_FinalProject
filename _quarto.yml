@@ -5,7 +5,7 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
+  title: "MUSA 550 Final Project"
   site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
   repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
   repo-actions: [source]
@@ -19,15 +19,9 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        href: https://github.com/ghernandezd215
+        text: "My Github"
 
     style: "docked"
     search: true

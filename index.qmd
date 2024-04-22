@@ -5,29 +5,13 @@ subtitle: "An example website demonstrating the power of Quarto for sharing anal
 
 ## Welcome!
 
-We can create beautiful websites that describe complex technical analyses in Python using [Quarto](https://quarto.org) 
-and deploy them online using [GitHub Pages](https://pages.github.com/). This combination of tools is a really powerful way 
-to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the 
-final project in MUSA 550. 
+Hello!
 
-Quarto is a relatively new tool, but is becoming popular quickly. It's a successor 
-to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other
-languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.  
+Welcome to this page that was made using Quarto! I am excited to share with you my final project for my Geospatial Data Science in Python course. 
 
-::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you're welcome (and encouraged) to 
-make as many changes as you like to best fit your project.
-:::
+Early into my Master's in Urban Spatial Analytics program in the University of Pennsylvania's School of Design, I was given the opportunity to intern with Nehemiah HDFC, an affordable housing development company based out of New York City. Nehemiah has 30+ years of experience transforming neighborhoods that were once blighted and undesirable, and in the process they have built extraordinary wealth for families that would otherwise be left out of the prosperity that can come with gentrification. Through Homeownership Nehemiah has been able to deeply impact the lives of individuals and their communities. 
 
-## Find out more
-
-The code for this repository is hosted on our course's GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
-
-We covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at
-[the slides for lecture 9A](https://musa-550-fall-2023.github.io/content/week-9/lecture-9A.html) to find out more.
-
-
-
+The purpose of my project was to take lists of addresses that contained each property that Nehemiah has developed and merge them with NYC's cross-departmental database (MAPPLUTO)that included the polygons of the lots. In order to do this, each list had to be wrangled in a different way prior to merging with the MAPPLUTo. The project yielded a shapefile that contained all of the lot-level data, including the geometries, that NYC had to offer for each of the addresses. The final result is that Nehemiah, for the first time in its history, could visualize where their properties were on a map. The scale of their effort is remarkable and its success is worth sharing as a model for transformative change in marginalized communities. 
 
 
 
