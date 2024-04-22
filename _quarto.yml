@@ -32,8 +32,8 @@ website:
       - about.qmd
       - section: analysis/index.qmd
         contents:
-          - analysis/MUSA_FINAL.ipynb
-            text:Project
+          - href: analysis/MUSA_FINAL.ipynb
+            text: Project
           
 
 format:
