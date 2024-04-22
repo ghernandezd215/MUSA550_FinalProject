@@ -33,6 +33,7 @@ website:
       - section: analysis/index.qmd
         contents:
           - analysis/MUSA_FINAL.ipynb
+            text:Project
           
 
 format:
